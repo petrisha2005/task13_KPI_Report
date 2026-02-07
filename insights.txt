@@ -1,0 +1,8 @@
+ Insights – Task 13 (BI Dashboard Storytelling)
+
+
+1.Technology category drives the highest revenue and profit, making it the strongest contributor to overall business performance. This indicates that continued investment and promotions in this category can maximize returns.
+
+2.The West region consistently outperforms other regions in total sales, showing strong market demand and better regional performance. Other regions present opportunities for growth through targeted marketing and pricing strategies.
+
+3.A small set of top 10 products contributes a significant share of total sales, highlighting a classic Pareto pattern. Focusing inventory planning, discounts, and marketing on these high-performing products can significantly improve overall profitability.
